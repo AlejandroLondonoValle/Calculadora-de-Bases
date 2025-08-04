@@ -24,7 +24,7 @@ Este proyecto es una calculadora de conversión de bases desarrollada en Python.
 
 ```bash
 git clone https://github.com/AlejandroLondonoValle/Calculadora-de-Bases.git
-cd conversor-bases-python
+cd Calculadora-de-Bases
 ```
 2. Ejecuta el script en la terminal
 ```bash
